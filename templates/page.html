@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block header %}
+    <h2>{{ page.title | safe }}</h2>
+{% endblock header %}
+
+{% block content %}
+    {{ page.content | safe }}
+{% endblock content %}
+
+{% block footer %}
+{% endblock footer %}
