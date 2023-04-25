@@ -10,5 +10,3 @@ packages:
       functions:
         - name: attendance
           runtime: go:default
-          web: true
-          webSecure: false
