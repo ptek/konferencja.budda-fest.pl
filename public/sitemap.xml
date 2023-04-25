@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://budda-fest.pl/</loc>
+        <loc>https://konferencja.budda-fest.pl/</loc>
+    </url>
+    <url>
+        <loc>https://konferencja.budda-fest.pl/registration/</loc>
+    </url>
+    <url>
+        <loc>https://konferencja.budda-fest.pl/thankyou/</loc>
     </url>
 </urlset>
