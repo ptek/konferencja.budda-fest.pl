@@ -1,4 +1,4 @@
-module packages/register/attendance
+module budda-fest/register/attendance
 
 go 1.20
 

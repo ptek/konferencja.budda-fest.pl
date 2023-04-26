@@ -5,8 +5,8 @@
     "packageVersions": {},
     "actionVersions": {
       "register/attendance": {
-        "digest": "e6457eedf4f3d20e515e6d129c90ad5d0256281781576d06b63f6c163e73763d",
-        "version": "0.0.10"
+        "digest": "66d5d5c458e577e4b5d01bb4fb68cc3ae5077ffeae724de171bf3fa299142e00",
+        "version": "0.0.11"
       }
     },
     "webHashes": {}
