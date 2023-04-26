@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://konferencja.budda-fest.pl/sitemap.xml
