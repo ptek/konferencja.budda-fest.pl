@@ -4,6 +4,9 @@ set -euo pipefail
 
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
+command -v zola
+which zola
+
 export ZOLACMD=$(command -v zola)
 
 if ! $(test -f "$ZOLACMD")
@@ -12,10 +15,10 @@ then
         cd "$SCRIPTPATH"
         case "$(uname -s)" in
             Linux*)
-                wget -c https://github.com/getzola/zola/releases/download/v0.17.2/zola-v0.17.2-x86_64-unknown-linux-gnu.tar.gz
+                wget -nv https://github.com/getzola/zola/releases/download/v0.17.2/zola-v0.17.2-x86_64-unknown-linux-gnu.tar.gz
                 ;;
             Darwin*)
-                wget -c https://github.com/getzola/zola/releases/download/v0.17.2/zola-v0.17.2-x86_64-apple-darwin.tar.gz
+                wget -nv https://github.com/getzola/zola/releases/download/v0.17.2/zola-v0.17.2-x86_64-apple-darwin.tar.gz
                 ;;
             *)
                 echo "Unsupported OS"
