@@ -4,9 +4,6 @@ set -euo pipefail
 
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-command -v zola
-which zola
-
 export ZOLACMD=$(command -v zola)
 
 if ! $(test -f "$ZOLACMD")
