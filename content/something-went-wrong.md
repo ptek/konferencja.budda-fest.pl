@@ -1,5 +1,5 @@
 ---
-title: Festywal Buddyjskiej Kultury. Konferencja.<br/>Szczecin 27. Maja 2023
+title: Festywal Buddyjskiej Kultury. Konferencja.<br/>Szczecin 20.05.2023
 ---
 
 <script src="https://unpkg.com/htmx.org@1.9.0"></script>
