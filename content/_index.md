@@ -5,7 +5,11 @@ title: ""
 ![plakat](/images/header.jpg)
 
 <script src="https://unpkg.com/htmx.org@1.9.0"></script>
-<center><button onclick="window.location.href='/registration';">Prosimy o zarejestrowanie się</button></center>
+<center>
+    <button onclick="window.location.href='/registration';">Prosimy o zarejestrowanie się tutaj</button>
+</center>
+
+<center>Udział w konferencji jest bezpłatny.</center>
 
 <style>
     #program #panel-discussion h2 {font-size: 2em;}
