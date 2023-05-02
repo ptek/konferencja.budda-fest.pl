@@ -53,15 +53,15 @@ PANELIŚCI:
 
 PROWADZĄCA: dr Magdalena Kerestey
 
-### 13:30 "What Can Neuroscience Tell Us About Mind Training And Meditation?"<br/>_dr Joan Paul Pozuelos._ University of Granada
+### 13:30 "What Can Neuroscience Tell Us About Mind Training And Meditation?"<br/>_dr Joan Paul Pozuelos,_ University of Granada
 
-### 14:00 "Czy medytacja to coś więcej niż placebo? Badania ekperymentalne"<br/>_mgr Adrianna Bober._ Pomorski Uniwersytet Medyczny
+### 14:00 "Czy medytacja to coś więcej niż placebo? Badania ekperymentalne"<br/>_mgr Adrianna Bober,_ Pomorski Uniwersytet Medyczny
 
-### 14:15 "Co będzie potem? Pośrednicząca rola uważności w relacjach wartości z przyszłością transcendentną i transcendentalną"<br/>_dr Celina Timoszyk-Tomczak._ Uniwersytet Szczeciński
+### 14:15 "Co będzie potem? Pośrednicząca rola uważności w relacjach wartości z przyszłością transcendentną i transcendentalną"<br/>_dr Celina Timoszyk-Tomczak,_ Uniwersytet Szczeciński
 
-### 14:30 "Medytacja w tybetańskich klasztorach na uchodźstwie okiem socjologa - opowieści z terenu"<br/>_dr Malwina Krajewska._ Uniwersytet Mikołaja Kopernia w Toruniu
+### 14:30 "Medytacja w tybetańskich klasztorach na uchodźstwie okiem socjologa - opowieści z terenu"<br/>_dr Malwina Krajewska,_ Uniwersytet Mikołaja Kopernia w Toruniu
 
-### 14:45 "Kiedy medytacja nie działa? Perspektywa nauczycieli medytacji - badania jakościowe"<br/>_dr Magdalena Kerestey._ Uniwersytet Szczeciński
+### 14:45 "Kiedy medytacja nie działa? Perspektywa nauczycieli medytacji - badania jakościowe"<br/>_dr Magdalena Kerestey,_ Uniwersytet Szczeciński
 
 ---
 
