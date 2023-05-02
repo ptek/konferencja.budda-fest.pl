@@ -11,6 +11,6 @@ Otrzymaliśmy Państwa rejestrację. Do zobaczenia na konferencji.
 
 Narazie zarejestrowało sie <span hx-get="https://attendance.budda-fest.pl/register/attendance" hx-trigger="load" hx-swap="innerHTML">⏳</span> uczęstników
 
-<button onclick="window.location.href='/';">Powrót do programu</button>
+<a href="/" style="text-decoration:underline;">Powrót do programu</a>
 
 </center>

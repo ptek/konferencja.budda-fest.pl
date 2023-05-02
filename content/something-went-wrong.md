@@ -11,6 +11,6 @@ Poprośimy spróbować ponownie za kilka minut. Zostaliśmy poinformowani o bł�
 
 Narazie zarejestrowało sie <span hx-get="https://attendance.budda-fest.pl/register/attendance" hx-trigger="load" hx-swap="innerHTML">⏳</span> uczęstników
 
-<button onclick="window.location.href='/registration';">Powrót do rejestracji</button>
+<a href="/registration" style="text-decoration:underline;">Powrót do rejestracji</a>
 
 </center>

@@ -6,7 +6,7 @@ title: ""
 
 <script src="https://unpkg.com/htmx.org@1.9.0"></script>
 <center>
-    <button onclick="window.location.href='/registration';">Prosimy o zarejestrowanie się tutaj</button>
+    <a href="/registration"><h2 style="text-decoration: underline; color: var(--links);">Prosimy o zarejestrowanie się tutaj</h2></a>
 </center>
 
 <center>Udział w konferencji jest bezpłatny.</center>
@@ -17,7 +17,9 @@ title: ""
 </style>
 <div id="program">
 
-# Program:
+<center>
+    <h1>Program</h1>
+</center>
 
 ---
 
