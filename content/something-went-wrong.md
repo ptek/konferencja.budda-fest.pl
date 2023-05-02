@@ -1,5 +1,5 @@
 ---
-title: Festywal Buddyjskiej Kultury. Konferencja.<br/>Szczecin 20.05.2023
+title: Festywal Kultury Buddyjskiej. Konferencja.<br/>Szczecin 20.05.2023
 ---
 
 <script src="https://unpkg.com/htmx.org@1.9.0"></script>
@@ -9,7 +9,7 @@ title: Festywal Buddyjskiej Kultury. Konferencja.<br/>Szczecin 20.05.2023
 
 Poprośimy spróbować ponownie za kilka minut. Zostaliśmy poinformowani o błędzie w systemie.
 
-Narazie zarejestrowało sie <span hx-get="https://attendance.budda-fest.pl/register/attendance" hx-trigger="load" hx-swap="innerHTML">⏳</span> uczęstników
+Narazie zarejestrowało sie <span hx-get="https://attendance.budda-fest.pl/register/attendance" hx-trigger="load" hx-swap="innerHTML">⏳</span> uczestników
 
 <a href="/registration" style="text-decoration:underline;">Powrót do rejestracji</a>
 

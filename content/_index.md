@@ -25,7 +25,7 @@ title: ""
 
 ## 10:30 Otwarcie Konferencji
 
-Przywitanie gości i uczestnikow Słowo wstepne Dyrektora Instytutu Psychologii Uniwersytetu Szczecinskiego oraz przedstawiciela Fundacji Stupa House
+Przywitanie gości i uczestników Słowo wstępne Dyrektora Instytutu Psychologii Uniwersytetu Szczecinskiego oraz przedstawiciela Fundacji Stupa House
 
 ---
 
