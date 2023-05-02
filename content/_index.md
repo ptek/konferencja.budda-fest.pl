@@ -14,6 +14,7 @@ title: ""
 <style>
     #program #panel-discussion h2 {font-size: 2em;}
     #program #panel-discussion p, #program #panel-discussion ul {font-size: 1.5em;}
+    #program #panel-discussion .moderator p {font-size: 1rem;}
 </style>
 <div id="program">
 
@@ -33,7 +34,11 @@ Przywitanie gości i uczestników Słowo wstępne Dyrektora Instytutu Psychologi
 
 ## 11:00 Dyskusja Panelowa "Jak Funkcjonuje Umysł?"
 
+<div class="moderator">
+
 MODERATOR: **Prof. dr hab. Zdzisław Kroplewski**
+
+</div>
 
 PANELIŚCI:
 * **dr Eunice Hempolińska-Nowik**<br/> /psychologia/ Instytut Psychologii, Uniwersytet Szczeciński
@@ -51,7 +56,11 @@ PANELIŚCI:
 
 ## 13:30 - 15:00 Medytacja w Badaniach
 
-PROWADZĄCA: dr Magdalena Kerestey
+<div class="moderator">
+
+PROWADZĄCA: **dr Magdalena Kerestey**
+
+</div>
 
 ### 13:30 "What Can Neuroscience Tell Us About Mind Training And Meditation?"<br/>_dr Joan Paul Pozuelos,_ University of Granada
 
