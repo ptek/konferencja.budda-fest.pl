@@ -36,10 +36,10 @@ Przywitanie gości i uczestników Słowo wstępne Dyrektora Instytutu Psychologi
 MODERATOR: **Prof. dr hab. Zdzisław Kroplewski**
 
 PANELIŚCI:
-* **dr Eunice Hempolińska-Nowik**<br/> /psychologia/ Instytut Psychologii. Uniwersytet Szczeciński
-* **prof. dr hab. Włodzisław Duch**<br/> /kognitywistyka/ Instytut Nauk Technicznych Uniwersytet Mikołaja Kopernika w Toruniu
-* **prof. dr hab. Artur Przybysławski**<br/> /filozofja/ Katedra Prównawczych Studiów Cywilizacji Uniwersytet Jagielloński
-* **dr hab. Rene Staritzbichler**<br/> /fizyka/ Max Planck Institute of Biophysics University of Leipzig
+* **dr Eunice Hempolińska-Nowik**<br/> /psychologia/ Instytut Psychologii, Uniwersytet Szczeciński
+* **prof. dr hab. Włodzisław Duch**<br/> /kognitywistyka/ Instytut Nauk Technicznych, Uniwersytet Mikołaja Kopernika w Toruniu
+* **prof. dr hab. Artur Przybysławski**<br/> /filozofia/ Katedra Porównawczych Studiów Cywilizacji, Uniwersytet Jagielloński
+* **dr hab. Rene Staritzbichler**<br/> /fizyka/ Max Planck Institute of Biophysics, University of Leipzig
 
 </div>
 
