@@ -4,13 +4,6 @@ title: ""
 
 ![plakat](/images/header.jpg)
 
-<script src="https://unpkg.com/htmx.org@1.9.0"></script>
-<center>
-    <a href="/registration"><h2 style="text-decoration: underline; color: var(--links);">Prosimy o zarejestrowanie się tutaj</h2></a>
-</center>
-
-<center>Udział w konferencji jest bezpłatny.</center>
-
 <style>
     #program #panel-discussion h2 {font-size: 2em;}
     #program #panel-discussion p, #program #panel-discussion ul {font-size: 1.5em;}
